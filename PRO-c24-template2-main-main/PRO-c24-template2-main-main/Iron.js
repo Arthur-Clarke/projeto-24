@@ -22,7 +22,7 @@ class Iron{
 			strokeWeight(4);
 			stroke("black");
 			fill("grey");
-			rect(0,0,this.r, this.r);
+			rect(0,0,this.width, this.height);
 			pop()
 	}
 
